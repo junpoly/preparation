@@ -1,5 +1,3 @@
-### Date : {{date: YYYY-MM-DD}} {{time}}
-
 ### Problem : 
 
 
